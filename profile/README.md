@@ -2,7 +2,7 @@
 
 ## About Us
 
-Welcome to the Wellcome Connecting Science GitHub repository! We have open courses from discovery research based on genomic technologies, to the application of genomics in healthcare and public health. All course data in this repository are free for reuse with attribution.
+Welcome to the Wellcome Connecting Science GitHub repository! We have open courses from discovery research based on genomic technologies, to the application of genomics in healthcare and public health. All course data in these repository are free for reuse with attribution.
 
 ## Interested in attending a course?
 
