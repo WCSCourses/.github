@@ -12,7 +12,7 @@ Take a look what courses are coming up at [Wellcome Connecting Science Courses &
 
 The latest course respositories can be found here [Wellcome Connecting Science Course Index](https://github.com/WCSCourses/index/blob/main/README.md).
 
-The course repository contains the following:
+The course repositories contain the following:
 - Course materials including lecture notes, slides, and datasets.
 - Code examples and scripts for bioinformatics and genomic analyses.
 - Tutorials and practical exercises to complement the courses.
