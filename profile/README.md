@@ -21,6 +21,10 @@ The course repositories contain the following:
 
 For courses that run frequently, dedicated course landing pages are created. These pages centralize all relevant materials and updates, making accessing the content easier for participants and educators. The course landing pages are pinned below on the homepage and on [Wellcome Connecting Science Courses Index](https://github.com/WCSCourses/index/blob/main/README.md).
 
+## Course Infromatics Set-up
+
+We are currently utilizing Oracle VirtualBox for our informatics courses because it is open-source and allows attendees to easily replicate the software environment after the course. For further system OS requirements and information on VM installation refer our: [ORACLE VM VIRTUAL BOX Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md).
+
 ## Citing and Re-using Course Material
 
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 
