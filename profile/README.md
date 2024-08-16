@@ -8,7 +8,7 @@ Welcome to the Wellcome Connecting Science GitHub repository! We have open cours
 
 ## Interested in attending a course?
 
-Take a look what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+Take a look at what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
 
 ## Course Repositories
 
@@ -21,9 +21,9 @@ The course repositories contain the following:
 
 For courses that run frequently, dedicated course landing pages are created. These pages centralize all relevant materials and updates, making accessing the content easier for participants and educators. The course landing pages are pinned below on the homepage and on [Wellcome Connecting Science Courses Index](https://github.com/WCSCourses/index/blob/main/README.md).
 
-## Course Infromatics Set-up
+## Course Informatics Set-up
 
-We are currently utilizing Oracle VirtualBox for our informatics courses because it is open-source and allows attendees to easily replicate the software environment after the course. For further system OS requirements and information on VM installation refer our: [ORACLE VM VIRTUAL BOX Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md).
+We are currently utilizing Oracle VirtualBox for our informatics courses because it is open-source and allows attendees to easily replicate the software environment after the course. For further system OS requirements and information on VM installation refer to our: [ORACLE VM VIRTUAL BOX Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md).
 
 ## Citing and Re-using Course Material
 
