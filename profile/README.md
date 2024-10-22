@@ -32,6 +32,9 @@ For installation and setup, please refer to the following guides:
 
 In virtual courses, we often use browser-based tools or **Google Colab**, allowing participants to run code without local installations. For more details, please refer to our **[Google Colab Guide](https://github.com/WCSCourses/index/blob/main/Google_Colab.md)**.
 
+Most of the bioinformatics software covered in our course operates mainly on Linux operating systems, here is a list of useful resources for **[Linux Learning](https://github.com/WCSCourses/index/blob/main/linux_learning.md)**.
+
+---
 
 ## Citing and Re-using Course Material
 
