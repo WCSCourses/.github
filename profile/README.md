@@ -19,20 +19,18 @@ The course repositories contain the following:
 - Code examples and scripts for bioinformatics and genomic analyses.
 - Tutorials and practical exercises to complement the courses.
 
-For courses that run frequently, dedicated course landing pages are created. These pages centralize all relevant materials and updates, making accessing the content easier for participants and educators. The course landing pages are pinned below on the homepage and on [Wellcome Connecting Science Courses Index](https://github.com/WCSCourses/index/blob/main/README.md).
+We have developed dedicated landing pages for courses that are offered regularly. These pages consolidate all pertinent materials and updates, facilitating easier access to content for both participants and educators. You can find the course landing pages linked below on the homepage and in the [Wellcome Connecting Science Courses Index](https://github.com/WCSCourses/index/blob/main/README.md).
 
 ## Course Informatics Set-up
 
-We primarily use **Oracle VirtualBox** for our informatics courses as it is open-source, cross-platform, and enables participants to seamlessly replicate the software environment after the course. For those who prefer a containerized setup, **Docker** provides a powerful alternative. It ensures consistent environments, simplifies dependency management, and is ideal for advanced users looking to streamline setups across various systems.
+We primarily use **Oracle VirtualBox** for our informatics courses as it is open-source, cross-platform, and enables participants to seamlessly replicate the software environment after the course. For those who prefer a containerized setup, we also have started providing support for **Docker** containers. 
 
 For installation and setup, please refer to the following guides:
 
 - **[Oracle VM VirtualBox Installation Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md)** – Detailed instructions for installing and configuring VirtualBox on different operating systems. *(Note: Separate installations are needed for Intel-based and ARM-based Macs, and the VDI files will differ.)*
 - **[Docker Installation Guide](https://github.com/WCSCourses/index/blob/main/Docker_guide.md)** – Step-by-step guide for installing Docker on Windows, macOS, and Linux.
 
-Both options offer flexibility and can accommodate a range of system requirements, allowing you to easily replicate the course environment. Should you have any questions, feel free to email us—we’re happy to assist.
-
-For virtual courses, we often use browser-based solutions or **Google Colab**, allowing participants to run code without local installations. For more details, please refer to our [Google Colab Guide](https://github.com/WCSCourses/index/blob/main/Google_Colab.md).
+In virtual courses, we often use browser-based tools or **Google Colab**, allowing participants to run code without local installations. For more details, please refer to our **[Google Colab Guide](https://github.com/WCSCourses/index/blob/main/Google_Colab.md)**.
 
 
 ## Citing and Re-using Course Material
