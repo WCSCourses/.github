@@ -23,7 +23,17 @@ For courses that run frequently, dedicated course landing pages are created. The
 
 ## Course Informatics Set-up
 
-We are currently utilizing Oracle VirtualBox for our informatics courses because it is open-source and allows attendees to easily replicate the software environment after the course. For further system OS requirements and information on VM installation refer to our: [ORACLE VM VIRTUAL BOX Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md).
+We primarily use **Oracle VirtualBox** for our informatics courses as it is open-source, cross-platform, and enables participants to seamlessly replicate the software environment after the course. For those who prefer a containerized setup, **Docker** provides a powerful alternative. It ensures consistent environments, simplifies dependency management, and is ideal for advanced users looking to streamline setups across various systems.
+
+For installation and setup, please refer to the following guides:
+
+- **[Oracle VM VirtualBox Installation Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md)** – Detailed instructions for installing and configuring VirtualBox on different operating systems. *(Note: Separate installations are needed for Intel-based and ARM-based Macs, and the VDI files will differ.)*
+- **[Docker Installation Guide](https://github.com/WCSCourses/index/blob/main/Docker_guide.md)** – Step-by-step guide for installing Docker on Windows, macOS, and Linux.
+
+Both options offer flexibility and can accommodate a range of system requirements, allowing you to easily replicate the course environment. Should you have any questions, feel free to email us—we’re happy to assist.
+
+For virtual courses, we often use browser-based solutions or **Google Colab**, allowing participants to run code without local installations. For more details, please refer to our [Google Colab Guide](https://github.com/WCSCourses/index/blob/main/Google_Colab.md).
+
 
 ## Citing and Re-using Course Material
 
