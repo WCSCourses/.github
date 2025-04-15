@@ -1,26 +1,54 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="50"> 
 
-# Wellcome Connecting Science GitHub HomePage                      
-
 ## About Us
 
-Welcome to the Wellcome Connecting Science GitHub repository! We have open courses from discovery research based on genomic technologies, to the application of genomics in healthcare and public health. All course data in these repositories are free for reuse with attribution.
+Welcome to the **Wellcome Connecting Science GitHub**!  
+We offer open-access course materials covering a wide range of topics—from discovery research based on genomic technologies to the application of genomics in healthcare and public health.
 
-## Interested in attending a course?
+All course data in these repositories are freely available for reuse, with appropriate attribution.
 
-Take a look at what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+---
 
-## Course Repositories
+## 📆 Interested in Attending a Course?
 
-The latest course repositories can be found here [Wellcome Connecting Science Courses Index](https://github.com/WCSCourses/index/blob/main/README.md).
+Visit our upcoming courses page:  
+👉 [Wellcome Connecting Science Courses & Conferences](https://coursesandconferences.wellcomeconnectingscience.org/our-events/)
 
-The course repositories contain the following:
-- Course materials including lecture notes, slides, and datasets.
-- Code examples and scripts for bioinformatics and genomic analyses.
-- Tutorials and practical exercises to complement the courses.
+---
 
-We have developed dedicated landing pages for courses that are offered regularly. These pages consolidate all pertinent materials and updates, facilitating easier access to content for both participants and educators. You can find the course landing pages linked below on the homepage and in the [Wellcome Connecting Science Courses Index](https://github.com/WCSCourses/index/blob/main/README.md).
+## 📁 What is a Course Repository?
 
+A **course repository** is a dedicated GitHub space containing all resources related to a specific course. This includes:
+
+- Lecture notes and slide decks
+- Sample datasets and files for analysis
+- Bioinformatics scripts and code examples
+- Tutorials and hands-on exercises
+- Software installation and troubleshooting guides
+
+Each repository is designed to provide everything needed to follow the course independently or review the materials afterward.
+
+
+## 🔗 What is a Course Landing Page?
+
+Some courses are delivered multiple times or are part of ongoing programmes. For these, we’ve created **course landing pages**—centralized pages that consolidate:
+
+- All related sessions and resources
+- Up-to-date datasets and code
+- Installation guides
+- Instructor notes and participant materials
+- Zenodo DOIs for citation
+
+These landing pages are ideal for educators and learners looking for a complete overview of a course.
+
+---
+
+## 📚 Explore All Course Repositories
+
+Visit our GitHub index for a full list of available courses:  
+👉 [Wellcome Connecting Science Courses Index](https://github.com/WCSCourses/index/blob/main/README.md)
+
+---
 ## Course Informatics Set-up
 
 We primarily use **Oracle VirtualBox** for our informatics courses as it is open-source, cross-platform, and enables participants to seamlessly replicate the software environment after the course. For those who prefer a containerized setup, we also have started providing support for **Docker** containers. 
@@ -44,5 +72,10 @@ Each course landing page is assigned a DOI via Zenodo, providing a stable and ci
 
 ---
 
-For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
-Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
+## 📬 Get in Touch
+
+For questions, feedback, or support:
+- Visit the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org)
+- Connect with us on social media: [WCS Linktree](https://linktr.ee/eventswcs)
+
+---
